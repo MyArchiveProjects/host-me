@@ -1,2 +1,2 @@
-first_time = False
-port = 5552
+first_time = True
+port = None
