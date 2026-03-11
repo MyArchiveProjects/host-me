@@ -27,7 +27,7 @@ HostMe is a blazing-fast, cross-platform CLI tool to **instantly run a local ser
 
 ## 📸 Preview
 
-<img width="522" height="349" alt="image" src="https://github.com/user-attachments/assets/28ea37aa-b900-4968-90fe-c6fdc47777fc" />
+
 
 
 
